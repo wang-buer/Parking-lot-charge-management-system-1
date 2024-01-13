@@ -1,10 +1,9 @@
-# 停车场收费管理系统
-
+# 停车场收费管理系统1
 ## 获取方式
 
-扫描下方，回复关键词  ：**停车场1** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**停车场**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -36,21 +35,13 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182145612.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207182145612.jpg)
 
 ### 4.2 其他模块
 
-![主界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182145394.jpg)
+![主界面](https://www.codeshop.fun/Typora-Images/202207182145394.jpg)
 
-![添加新车辆](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182145463.jpg)
+![添加新车辆](https://www.codeshop.fun/Typora-Images/202207182145463.jpg)
 
-![修改订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207182145906.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**停车场1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![修改订单](https://www.codeshop.fun/Typora-Images/202207182145906.jpg)
 
